@@ -55,4 +55,4 @@ An example of use is provided in the ```Test_1.py``` where I show the importance
 
 ## License
 
-This repository contains a [MIT LICENSE](https://github.com/edgarsmdn/Aspen_HYSYS_Python/blob/main/LICENSE)
+This repository contains a [MIT LICENSE](https://github.com/AlxndrKlbk/pyhys/blob/main/LICENSE)
